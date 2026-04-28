@@ -1,0 +1,20 @@
+{
+  "short_name": "Cvejovic",
+  "name": "Cvejović — Porodično stablo",
+  "icons": [
+    {
+      "src": "Logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#F5EFE0",
+  "background_color": "#F5EFE0"
+}
