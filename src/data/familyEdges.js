@@ -63,6 +63,7 @@ export const edges = [
 
   // Miloš → deca
   { id: "e-milos-svetislavka", source: "rad-milos", target: "milos-svetislavka" },
+  { id: "e-milos-milan", source: "rad-milos", target: "milos-milan" },
   { id: "e-milos-dragica", source: "rad-milos", target: "milos-dragica" },
   { id: "e-milos-radmila", source: "rad-milos", target: "milos-radmila" },
   { id: "e-milos-dragana", source: "rad-milos", target: "milos-dragana" },

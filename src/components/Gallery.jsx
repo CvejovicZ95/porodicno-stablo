@@ -26,7 +26,7 @@ const SLIKE = [
     src: "/Miladin.jpeg",
     title: "Grob Miladina Cvejovića",
     date: "Cvejovići, Dublje — 1918.",
-    desc: "Sin Vukomana Cvejovića. Natpis na spomenu: Miladin Cvejović iz Kovača, živeo 79g umre 18 jula 1918 g, spomenik podiže sin Vukašin.",
+    desc: "Sin Vukomana Cvejovića. Natpis na spomenu: Miladin Cvejović iz Kovača, živeo 79g umre 18 juna 1918 g, spomenik podiže sin Vukašin.",
     hero: false,
   },
   {
