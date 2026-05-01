@@ -73,7 +73,23 @@ const nodeTypes = { custom: CustomNode };
 
 // ── Layoutovani nodovi i edgovi (van komponente, računa se jednom) ─
 const { nodes: layoutedNodes, edges: layoutedEdges } = (() => {
-  const { nodes, edges } = getLayoutedElements(rawNodes, rawEdges);
+  let { nodes, edges } = getLayoutedElements(rawNodes, rawEdges);
+
+  nodes = nodes.map((n) => {
+    if (n.id === "milunka") {
+      const ljubomir = nodes.find((x) => x.id === "4");
+
+      return {
+        ...n,
+        position: {
+          x: ljubomir.position.x + 260,
+          y: ljubomir.position.y,
+        },
+      };
+    }
+
+    return n;
+  });
 
   const zivojinEdges = getAllEdgesForPatriarch("6", edges);
   const radojkoEdges = getAllEdgesForPatriarch("6b", edges);

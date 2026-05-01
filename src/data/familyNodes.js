@@ -88,6 +88,20 @@ export const nodes = [
     type: "custom",
   },
   {
+    id: "milunka",
+    data: {
+      label: "Milunka Cvejović",
+      years: "1882–20.10.1953",
+      monumentNote: "Cvejović Milunka žive 71 godinu a umre 20 oktombra 1953. god. spomen podiže sin Živojin",
+      note: "Milunka Cvejović (supruga Ljubomira) ima ključnu ulogu u očuvanju porodice, zbog čega je prikazana u porodičnom stablu iako nije u krvnom srodstvu. Nakon pogibije Vujice Cvejovića 1903. godine preuzima brigu o malom Radojku, koji ostaje bez oca, dok ga majka napušta (preudala se), Milunka ga odgaja kao svoje dete. Sa suprugom Ljubomirom dobija sinove Živojina i Vladimira. Posle Ljubomirove pogibije 1913. godine sama nastavlja da brine o deci. Iz ove tri grane — Radojka, Živojina i Vladimira — razvilo se više od 200 potomaka, što njenoj ulozi daje izuzetan značaj u porodičnom stablu.",
+      image: "/MilunkaCvejovicMajkaZivoina.jpeg",
+      gender: 2,
+      isSpouse: true,
+    },
+    position: { x: 0, y: 0 },
+    type: "custom",
+  },
+  {
     id: "5",
     data: {
       label: "Vukašin Cvejović",

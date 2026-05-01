@@ -19,6 +19,7 @@ const CustomNode = ({ data, selected }) => {
   const isBrother = data.brother;
   const isUncle = data.uncle;
   const isVladimir = data.vladimirLine;
+  const isSpouse = data.isSpouse;
 
   let background, color, border, boxShadow;
   if (isSelected) {
@@ -103,6 +104,11 @@ const CustomNode = ({ data, selected }) => {
     color = "#FFF8E7";
     border = "1.5px solid #8B6914";
     boxShadow = "0 4px 16px rgba(61,43,31,0.2)";
+  } else if (isSpouse) {
+    background = "linear-gradient(135deg, #4A3B5C 0%, #8C6FAE 100%)";
+    color = "#F4EFFF";
+    border = "2px solid #B9A3E6";
+    boxShadow = "0 4px 20px rgba(74,59,92,0.35)";
   } else {
     background = "#FFFDF8";
     color = "#2C1810";
@@ -133,9 +139,11 @@ const CustomNode = ({ data, selected }) => {
                         ? "#E07820"
                         : isVladimir
                           ? "#753232"
-                          : data.isSearchMatch
-                            ? "#5AABF0"
-                            : "#C4B49A";
+                          : isSpouse
+                            ? "#8A7A5A"
+                            : data.isSearchMatch
+                              ? "#5AABF0"
+                              : "#C4B49A";
 
 
 

@@ -16,7 +16,7 @@ Prezime Cvejović potiče od starog srpskog ličnog imena Cvejo ili Cvijo, a sro
 
 Rod je u Kovačima dugo živeo kao jedna kuća — po etnografskom zapisu iz sredine 20. veka, zabeležena je samo jedna porodica Cvejović u selu. Svi današnji Cvejovići u tom kraju gotovo sigurno potiču od zajedničkog pretka.
 
-<b> Nakon smrti Vujice, Radojkova majka napušta porodicu i kasnije se preudala. Nakon njenog odlaska, o Radojku su brigu preuzeli Živojinovi roditelji, pre svega njegova majka, koja ga je podizala zajedno sa ostalom decom u domaćinstvu. </b>
+<b>Milunka Cvejović (supruga Ljubomira Cvejovića) ima ključnu ulogu u očuvanju porodice. Nakon pogibije Vujice Cvejovića 1903. godine, preuzima brigu o malom Radojku, koji ostaje bez oca, dok ga majka Rujka napušta (preudala se), i odgaja ga kao svoje dete. Sa suprugom Ljubomirom dobija sinove Živojina i Vladimira. Posle Ljubomirove pogibije 1913. godine, sama nastavlja da brine o deci. Iz ove tri grane — Radojka, Živojina i Vladimira — razvilo se više od 200 potomaka, što njenoj ulozi daje presudan značaj u porodičnom stablu.</b>
 
 <b> Poznat je podatak da su Radojko i Živojin jedno vreme živeli u zajedničkoj kući sa čak 37 članova porodice. </b>
 
