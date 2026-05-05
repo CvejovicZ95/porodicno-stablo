@@ -10,15 +10,15 @@ import Gallery from "./Gallery";
 
 const ABOUT_TEXT = `Prema etnografskim zapisima, Cvejovići su se u Kovače doselili iz zaseoka Glave i obližnjeg zaseoka Boće, gde su živeli kod roda Grković. Zemlja je kupljena, što znači da nisu bili starosedeoci. Doseljavanje se verovatno desilo krajem 18. ili početkom 19. veka, u sklopu šireg kretanja stanovništva iz pravca Crne Gore i Starog Vlaha prema Kopaoniku i Raškoj.
 
-Najstariji potvrđeni predak je Vukoman Cvejović (1818–1886), čiji grob stoji na seoskom groblju Dublje. Na grobu je navedeno da je iz Glava, što potvrđuje tradiciju porekla porodice. Vukoman je verovatno bio unuk prvog doseljenika — dakle druga generacija u Kovačima. Prezime je već tada bilo stabilno, što je za to vreme bilo relativno rano, jer su stalna srpska prezimena zvanično uvedena tek 1851. godine.
+Najstariji potvrđeni predak je Vukoman Cvejović (1818–1886), čiji se grob nalazi na seoskom groblju Dublje. Na grobu je navedeno da je iz Glava (Glavsko brdo), što potvrđuje tradiciju porekla porodice. Vukoman je verovatno bio sin prvog doseljenika — dakle prva generacija u Kovačima. Prezime je već tada bilo stabilno, što je za to vreme bilo relativno rano, jer su stalna srpska prezimena zvanično uvedena tek 1851. godine.
 
 Prezime Cvejović potiče od starog srpskog ličnog imena Cvejo ili Cvijo, a srodne varijante sreću se u oblasti Drobnjaka i oko Nikšića u Crnoj Gori — što se poklapa sa pretpostavljenim pravcem migracije roda. Krsna slava porodice je Đurđevdan (6. maj), sa preslavom na Đurđic (16. novembar). Porodice sa ovom slavom u Raškoj oblasti najčešće vuku poreklo iz Drobnjaka, Morače ili Starog Vlaha.
 
-Rod je u Kovačima dugo živeo kao jedna kuća — po etnografskom zapisu iz sredine 20. veka, zabeležena je samo jedna porodica Cvejović u selu. Svi današnji Cvejovići u tom kraju gotovo sigurno potiču od zajedničkog pretka.
+Rod je u Kovačima dugo živeo kao jedna kuća — po etnografskom zapisu iz sredine 20. veka, zabeležena je samo jedna porodica Cvejović u selu. Svi današnji Cvejovići u tom kraju sigurno potiču od zajedničkog pretka.
 
-<b>Milunka Cvejović (supruga Ljubomira Cvejovića) ima ključnu ulogu u očuvanju porodice. Nakon pogibije Vujice Cvejovića 1903. godine, preuzima brigu o malom Radojku, koji ostaje bez oca, dok ga majka Rujka napušta (preudala se), i odgaja ga kao svoje dete. Sa suprugom Ljubomirom dobija sinove Živojina i Vladimira. Posle Ljubomirove pogibije 1913. godine, sama nastavlja da brine o deci. Iz ove tri grane — Radojka, Živojina i Vladimira — razvilo se više od 200 potomaka, što njenoj ulozi daje presudan značaj u porodičnom stablu.</b>
+<b>Milunka Cvejović (supruga Ljubomira Cvejovića) ima ključnu ulogu u očuvanju porodice. Nakon pogibije Vujice Cvejovića 1903. godine, preuzima brigu o malom Radojku, koji ostaje bez oca, dok ga majka Rujka napušta (preudala se), i odgaja ga kao svoje dete. Kasnije, Sa suprugom Ljubomirom dobija sinove Živojina(1907) i Vladimira(1912). Posle Ljubomirove pogibije 1913. godine, sama nastavlja da brine o deci. Iz ove tri grane — Radojka, Živojina i Vladimira — razvilo se više od 200 potomaka, što njenoj ulozi daje presudan značaj u porodičnom stablu.</b>
 
-<b> Poznat je podatak da su Radojko i Živojin jedno vreme živeli u zajedničkoj kući sa čak 37 članova porodice. </b>
+<b> Poznat je i podatak da su Radojko i Živojin jedno vreme živeli u zajedničkoj kući sa čak 37 članova porodice. </b>
 
 <b>Zabeležena je i upečatljiva priča o Milunki, drugoj ženi Radojkovoj. U svom prvom braku nije imala dece i živela je na Kosovu, gde su je zadesile teške porodične okolnosti. Prema tadašnjim običajima, postojalo je nasilno nametanje odnosa sa svekrom, zbog čega je odlučila da pobegne. Sama, peške, kroz šume, prešla je dug put sve do Kovača.</b>
 
@@ -26,7 +26,7 @@ Rod je u Kovačima dugo živeo kao jedna kuća — po etnografskom zapisu iz sre
 
 <b> Po isteku tog perioda udala se za Radojka i došla u njegovu kuću, gde je već bilo četvoro dece, započinjući novo poglavlje života u velikoj porodičnoj zajednici. </b>
 
-Po podacima o naseljima Kovača, Cvejovići su se naselili na kupljenom imanju, što potvrđuje i zapis da su došli "od Grkovića iz Boća" i da nisu bili starosedeoci. Ovo se uklapa u širi istorijski kontekst doseljavanja novih porodica u Kovače tokom 19. veka, dok su starije porodice, poput Miletića i Tošovića, bile već dugo useljene u selo.
+Po podacima o naseljima u Kovačima, Cvejovići su se naselili na kupljenom imanju, što potvrđuje i zapis da su došli "od Grkovića iz Boća" i da nisu bili starosedeoci. Ovo se uklapa u širi istorijski kontekst doseljavanja novih porodica u Kovače tokom 19. veka, dok su starije porodice, poput Miletića i Tošovića, bile već dugo useljene u selo.
 
 
 <p>
