@@ -91,6 +91,9 @@ const { nodes: layoutedNodes, edges: layoutedEdges } = (() => {
     return n;
   });
 
+
+  const ancestorEdgeIds = new Set(["e0-1", "e1-2", "e2-ljubica", "e2-4", "e2-5", "e2-vujica", "e4-6", "e-ljubomir-vlad",
+    "e-vujica-radojko"]);
   const zivojinEdges = getAllEdgesForPatriarch("6", edges);
   const radojkoEdges = getAllEdgesForPatriarch("6b", edges);
   const vladimirEdges = getAllEdgesForPatriarch("vladimir", edges);
@@ -98,9 +101,10 @@ const { nodes: layoutedNodes, edges: layoutedEdges } = (() => {
 
   const coloredEdges = edges.map((e) => {
     let stroke = "#D4C4A8";
-    if (zivojinEdges.has(e.id)) stroke = "#4AAD6A";
-    else if (radojkoEdges.has(e.id)) stroke = "#4A78B8";
-    else if (vladimirEdges.has(e.id)) stroke = "#AA2950";
+    if (ancestorEdgeIds.has(e.id)) stroke = "#000000";
+    else if (zivojinEdges.has(e.id)) stroke = "#00be3c";
+    else if (radojkoEdges.has(e.id)) stroke = "#006aff";
+    else if (vladimirEdges.has(e.id)) stroke = "#ff0000";
 
     return {
       ...e,
@@ -151,15 +155,21 @@ function FamilyTreeInner() {
   );
 
   const restorePatriarchColors = useCallback((eds) => {
+    const ancestorEdgeIds = new Set([
+      "e0-1", "e1-2",
+      "e2-ljubica", "e2-4", "e2-5", "e2-vujica",
+      "e4-6", "e-ljubomir-vlad", "e-vujica-radojko",
+    ]);
     const zivojinEdges = getAllEdgesForPatriarch("6", eds);
     const radojkoEdges = getAllEdgesForPatriarch("6b", eds);
     const vladimirEdges = getAllEdgesForPatriarch("vladimir", eds);
 
     return eds.map((e) => {
       let stroke = "#D4C4A8";
-      if (zivojinEdges.has(e.id)) stroke = "#4AAD6A";
-      else if (radojkoEdges.has(e.id)) stroke = "#4A78B8";
-      else if (vladimirEdges.has(e.id)) stroke = "#AA2950";
+      if (ancestorEdgeIds.has(e.id)) stroke = "#000000";
+      else if (zivojinEdges.has(e.id)) stroke = "#00be3c";
+      else if (radojkoEdges.has(e.id)) stroke = "#006aff";
+      else if (vladimirEdges.has(e.id)) stroke = "#ff0000";
 
       return {
         ...e,
