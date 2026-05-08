@@ -9,7 +9,7 @@ export const radojkoNodes = [
     data: {
       label: "Radojko Cvejović",
       years: "24.05.1900–13.10.1974",
-      note: "Sin Vujice Cvejovića. Na grobu Vukašina Cvejovića upisan kao sinovac, što potvrđuje porodičnu vezu. Patrijarh druge grane — otac sedmoro dece sa dve supruge Stankom i Milunkom.",
+      note: "Sin Vujice i Rujke Cvejović. Na grobu Vukašina Cvejovića upisan kao sinovac, što potvrđuje porodičnu vezu. Patrijarh druge grane — otac osmoro dece sa dve supruge Stankom i Milunkom.",
       patriarch2: true,
       image: "RadojkoMilunka.jpeg",
       gender: 1,
@@ -24,6 +24,7 @@ export const radojkoNodes = [
   { id: "rad-nepoznata", data: { label: "Mijojla Pribojac", years: "", note: "Ćerka Radojka i Stanke Cvejović. Nije imala dece.", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
   { id: "rad-visnja", data: { label: "Dobrila Raković", years: "", note: "Ćerka Radojka i Stanke Cvejović.", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
   { id: "rad-radivoje", data: { label: "Radivoje Cvejović", years: "1930-2012", note: "Sin Radojka i Milunke Cvejović. Sa suprugom Dušankom izrodili troje dece:Goran, Kadiva i Radomirka.", gender: 1 }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "rad-vera", data: { label: "Vera Glavčić", years: "", note: "Ćerka Radojka i Milunke Cvejović.", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
   { id: "rad-mara", data: { label: "Rajka Novković", years: "", note: "Ćerka Radojka i Milunke Cvejović.", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
   { id: "rad-caja", data: { label: "Stanimirka Nikolic", years: "", note: "Ćerka Radojka i Milunke Cvejović.", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
 
@@ -43,6 +44,10 @@ export const radojkoNodes = [
   { id: "radi-goran", data: { label: "Goran Cvejović", years: "", gender: 1 }, position: { x: 0, y: 0 }, type: "custom" },
   { id: "radi-kadiva", data: { label: "Kadiva", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
   { id: "radi-poginula", data: { label: "Radomirka Cvejović", years: "", note: "Ćerka Radivoja, poginula u nesreći na pruzi u Velikoj Plani sa 16 godina.", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
+
+  // Verina deca
+  { id: "vera-ljubinko", data: { label: "Ljubinko Glavčić", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "vera-ljubinka", data: { label: "Ljubinka", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
 
   // Cajina deca
   { id: "caja-mirjana", data: { label: "Mirjana", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
@@ -82,13 +87,33 @@ export const radojkoNodes = [
   // Kadiva → dete
   { id: "kadiva-zarko", data: { label: "Žarko", years: "", gender: 1 }, position: { x: 0, y: 0 }, type: "custom" },
 
+  // Ljubinko Glavčić → dete
+  { id: "vera-ljubinko-dete1", data: { label: "?", years: "", unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
+
+  // Ljubinka → deca
+  { id: "vera-ljubinka-dete1", data: { label: "?", years: "", unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "vera-ljubinka-dete2", data: { label: "?", years: "", unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "vera-ljubinka-dete3", data: { label: "?", years: "", unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
+
   // Dragica → dete
   { id: "dragica-natasa", data: { label: "Nataša Milosavac", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
 
   // Radmila → deca
-  { id: "radmila-nikola", data: { label: "Nikola", years: "", gender: 1 }, position: { x: 0, y: 0 }, type: "custom" },
-  { id: "radmila-violeta", data: { label: "Violeta", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
-  { id: "radmila-danijela", data: { label: "Danijela", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "radmila-nikola", data: { label: "Nikola Glavčić", years: "", gender: 1 }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "radmila-violeta", data: { label: "Violeta Drašković", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "radmila-danijela", data: { label: "Danijela Obrenović", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
+
+  // Nikola Glavčić → deca
+  { id: "nikola-glavcic-dete1", data: { label: "?", years: "", unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "nikola-glavcic-dete2", data: { label: "?", years: "", unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
+
+  // ── Violeta (Radmila) → deca ────────────────────────────────
+  { id: "violeta-radovan-draskovic", data: { label: "Radovan Drašković", years: "", gender: 1 }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "violeta-jovana-draskovic", data: { label: "Jovana Drašković", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
+
+  // ── Danijela (Radmila) → deca (nepoznato) ───────────────────
+  { id: "danijela-dete1", data: { label: "?", unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "danijela-dete2", data: { label: "?", unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
 
   // Dragana → dete
   { id: "dragana-milica", data: { label: "Milica Cvejović", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },

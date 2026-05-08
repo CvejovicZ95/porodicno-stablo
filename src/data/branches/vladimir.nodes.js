@@ -9,7 +9,7 @@ export const vladimirNodes = [
     data: {
       label: "Vladimir Cvejović",
       years: "1912-08.09.1935",
-      note: "Sin Ljubomira Cvejovića, rođeni brat Živojina. Živeo 23 godine, preminuo 08.09.1935. Zadobio teške povrede — prebijen i nakon zadobijenih povreda preminuo. Sa suprugom Jelkom(1912-1995) dobio sina Ivana. (uskoro slika spomen-ploče)",
+      note: "Sin Ljubomira i Milunke Cvejović, rođeni brat Živojina. Živeo 23 godine, preminuo 08.09.1935. Zadobio teške povrede — prebijen i nakon zadobijenih povreda preminuo. Sa suprugom Jelkom(1912-1995) dobio sina Ivana. (uskoro slika spomen-ploče)",
       vladimirLine: true,
       gender: 1,
     },
@@ -32,12 +32,12 @@ export const vladimirNodes = [
   },
 
   // ── Gen 6 — Ivanove ćerke ─────────────────────────────────────
-  { id: "ivan-nada",    data: { label: "Nada Aranđelović", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "ivan-nada", data: { label: "Nada Aranđelović", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
   { id: "ivan-snezana", data: { label: "Snežana Milovanović", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
 
   // ── Gen 7 — Snežanina deca ────────────────────────────────────
-  { id: "snez-vesna",     data: { label: "Vesna", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
-  { id: "snez-vladimir",  data: { label: "Vladimir Milovanović", years: "", gender: 1 }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "snez-vesna", data: { label: "Vesna", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "snez-vladimir", data: { label: "Vladimir Milovanović", years: "", gender: 1 }, position: { x: 0, y: 0 }, type: "custom" },
 
   // Nadina deca
   { id: "nada-andjelka", data: { label: "Anđelka Milić", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },

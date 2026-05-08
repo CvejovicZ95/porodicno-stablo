@@ -72,7 +72,7 @@ export const ancestorNodes = [
       years: "18.02.1885–01.03.1913",
       monumentNote:
         "Ratnik Ljubomir Cvejović žive 25 g. umre na Jedranskom moru u Draču 01.03.1913 g. spomen podižu njegovi sinovi Živojin Vladimir",
-      note: "Rođen 18. februara 1885. Imao sestru bliznakinju Ljubicu (četvrto dete po redu u porodici je Ljubomir), težak iz Kovača(težak u to vreme se odnosilo na seljak). Rođeni brat Vukašina, Vujice i Ljubičin brat blizanac. Učesnik Prvog balkanskog rata, poginuo 01.03.1913 na Draču (Durrës). Iako nije sahranjen na seoskom groblju, sinovi su mu podigli spomenik(na spomeniku je greška da je živeo 25 godina, sa 28 je poginuo). Jedini Cvejović na spomen-ploči boraca iz Kovača. U braku živeo 8 godina sa Milunkom Cvejović (umrla 20. oktobra 1953. godine, živela 71 godinu).Sa Milunkom dobio dva sina Živojina i Vladimira. Milunkin spomenik podigao sin Živojin(sliku spomen-ploče Milunki možete videti u galeriji).",
+      note: "Rođen 18. februara 1885. Imao sestru bliznakinju Ljubicu (četvrto dete po redu u porodici je Ljubomir), težak iz Kovača(težak u to vreme se odnosilo na seljak). Rođeni brat Vukašina, Vujice i Ljubičin brat blizanac. Učesnik Prvog balkanskog rata, poginuo 01.03.1913 na Draču (Durrës). Iako nije sahranjen na seoskom groblju, sinovi su mu podigli spomenik(na spomeniku je greška da je živeo 25 godina, sa 28 je poginuo). Jedini Cvejović na spomen-ploči boraca iz Kovača. U braku živeo 8 godina sa Milunkom Cvejović (umrla 20. oktobra 1953. godine, živela 71 godinu).Sa Milunkom dobio dva sina Živojina i Vladimira. Milunkin spomenik podigao sin Živojin.",
       hero: true,
       twin: true,
       image: "/RatnikLjubomir.jpeg",

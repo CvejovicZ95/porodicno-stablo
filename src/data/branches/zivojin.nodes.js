@@ -9,7 +9,7 @@ export const zivojinNodes = [
     data: {
       label: "Živojin Cvejović",
       years: "08.11.1907-30.03.1972",
-      note: "Sin Ljubomira Cvejovića, rođeni brat Vladimira. Na grobu Vukašina Cvejovića upisan kao sinovac, što potvrđuje porodičnu vezu. Patrijarh prve grane — otac sedmoro dece sa suprugom Savkom(Veljković).",
+      note: "Sin Ljubomira i Milunke Cvejović, rođeni brat Vladimira. Na grobu Vukašina Cvejovića upisan kao sinovac, što potvrđuje porodičnu vezu. Patrijarh prve grane — otac sedmoro dece sa suprugom Savkom(Veljković).",
       patriarch: true,
       image: "/ZivoinSavka.jpeg",
       gender: 1,
