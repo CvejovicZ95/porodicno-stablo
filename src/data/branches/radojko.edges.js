@@ -71,11 +71,12 @@ export const radojkoEdges = [
   { id: "e-goran-marko", source: "radi-goran", target: "goran-marko" },
   { id: "e-goran-filip", source: "radi-goran", target: "goran-filip" },
 
-  // Kadiva → Žarko
+  // Kadiva → Zarko
   { id: "e-kadiva-zarko", source: "radi-kadiva", target: "kadiva-zarko" },
 
   // Ljubinko Glavčić → dete
-  { id: "e-vera-ljubinko-dete1", source: "vera-ljubinko", target: "vera-ljubinko-dete1" },
+  { id: "e-vera-ljubinko-dete1", source: "vera-ljubinko", target: "vera-ljubinko-dete1", },
+  { id: "e-vera-ljubinko-dete2", source: "vera-ljubinko", target: "vera-ljubinko-dete2", },
 
   // Ljubinka → deca
   { id: "e-vera-ljubinka-dete1", source: "vera-ljubinka", target: "vera-ljubinka-dete1" },

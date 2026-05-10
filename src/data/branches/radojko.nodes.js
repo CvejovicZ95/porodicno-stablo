@@ -89,6 +89,7 @@ export const radojkoNodes = [
 
   // Ljubinko Glavčić → dete
   { id: "vera-ljubinko-dete1", data: { label: "?", years: "", unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "vera-ljubinko-dete2", data: { label: "?", years: "", unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
 
   // Ljubinka → deca
   { id: "vera-ljubinka-dete1", data: { label: "?", years: "", unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
@@ -148,14 +149,14 @@ export const radojkoNodes = [
 
   // ── Gen 8 — Mikica → deca ─────────────────────────────────────
   { id: "mikica-aleksandar", data: { label: "Aleksandar Cvejović", years: "", gender: 1 }, position: { x: 0, y: 0 }, type: "custom" },
-  { id: "mikica-andjela", data: { label: "Anđela", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "mikica-andjela", data: { label: "Anđela Stojanović", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
 
   // Aleksandar → dete
   { id: "aleksandar-bogdan", data: { label: "Bogdan Cvejović", years: "", gender: 1 }, position: { x: 0, y: 0 }, type: "custom" },
 
   // Anđela → deca
-  { id: "andjela-dete1", data: { label: "?", years: "", unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
-  { id: "andjela-dete2", data: { label: "?", years: "", unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "andjela-dete1", data: { label: "Angelina Stojanović", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "andjela-dete2", data: { label: "Milica Stojanović", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
 
   // Slavica (Radovanova) → deca
   { id: "radovan-slavica-sin", data: { label: "?", gender: 1, unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
