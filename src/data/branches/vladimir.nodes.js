@@ -36,20 +36,20 @@ export const vladimirNodes = [
   { id: "ivan-snezana", data: { label: "Snežana Milovanović", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
 
   // ── Gen 7 — Snežanina deca ────────────────────────────────────
-  { id: "snez-vesna", data: { label: "Vesna", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "snez-vesna", data: { label: "Vesna Perović", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
   { id: "snez-vladimir", data: { label: "Vladimir Milovanović", years: "", gender: 1 }, position: { x: 0, y: 0 }, type: "custom" },
 
   // Nadina deca
   { id: "nada-andjelka", data: { label: "Anđelka Milić", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
-  { id: "nada-marijana", data: { label: "Marijana", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "nada-marijana", data: { label: "Marijana Simić", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
 
   // ── Gen 8 — Vesnina deca ──────────────────────────────────────
-  { id: "snez-vesna-dete1", data: { label: "?", years: "", unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
-  { id: "snez-vesna-dete2", data: { label: "?", years: "", unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "snez-vesna-dete1", data: { label: "Teodora Perović", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "snez-vesna-dete2", data: { label: "Martina Perović", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
 
   // Anđelkina deca
-  { id: "andjelka-dete1", data: { label: "?", years: "", unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
-  { id: "andjelka-dete2", data: { label: "?", years: "", unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "andjelka-dete1", data: { label: "Katarina Milić", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
+  { id: "andjelka-dete2", data: { label: "Maja Milić", years: "", gender: 2 }, position: { x: 0, y: 0 }, type: "custom" },
 
   // Marijanina deca
   { id: "marijana-dete1", data: { label: "?", years: "", unknown: true }, position: { x: 0, y: 0 }, type: "custom" },
